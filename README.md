@@ -60,6 +60,7 @@ This project aims to identify these issues and provide actionable recommendation
 - Lost sales analysis by product and warehouse  
 - Demand vs stock comparison for decision-making  
 
+<a href="https://prod-ca-a.online.tableau.com/t/kabiodun1112-207c4a9748/authoring/InventoryRiskDemandOptimizationDashboard/Dashboard1#3">Tableau Link</a>
 ---
 
 ## 📈 Key Insights
