@@ -1,7 +1,38 @@
+![Tool](https://img.shields.io/badge/Tool-Tableau-blue)
+![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-green)
+
+
 # 📦 Inventory Risk & Demand Optimization Analysis
+
+A Tableau-based analysis identifying stockout risks, overstock conditions, and lost sales to improve inventory decision-making.
+
+---
 
 ## 📖 Overview
 This project analyzes inventory and demand data to identify supply chain inefficiencies, including stockout risks, overstock conditions, and lost sales. The goal is to provide data-driven insights that support better inventory planning, reduce risk, and improve operational efficiency.
+
+---
+
+## 🚀 Project Highlights
+
+- Built an interactive Tableau dashboard to analyze inventory risk and demand patterns  
+- Developed KPIs including Stockout Rate, Overstock Rate, and Estimated Lost Sales  
+- Identified inventory imbalances across products and warehouses  
+- Delivered actionable recommendations to reduce lost sales and improve stock allocation
+
+---
+
+## 📊 Dashboard
+<img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/b116f516-60d2-42ff-93dd-6a287b020480" />
+
+
+**Dashboard Features:**
+- KPI summary of inventory performance  
+- Distribution of inventory risk categories  
+- Lost sales analysis by product and warehouse  
+- Demand vs stock comparison for decision-making  
+
+<a href="https://prod-ca-a.online.tableau.com/t/kabiodun1112-207c4a9748/authoring/InventoryRiskDemandOptimizationDashboard/Dashboard1#3">Tableau Link</a>
 
 ---
 
@@ -48,19 +79,6 @@ This project aims to identify these issues and provide actionable recommendation
   - Demand vs Stock scatter plot  
 - Applied filters for dynamic exploration (warehouse, category)
 
----
-
-## 📊 Dashboard
-<img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/b116f516-60d2-42ff-93dd-6a287b020480" />
-
-
-**Dashboard Features:**
-- KPI summary of inventory performance  
-- Distribution of inventory risk categories  
-- Lost sales analysis by product and warehouse  
-- Demand vs stock comparison for decision-making  
-
-<a href="https://prod-ca-a.online.tableau.com/t/kabiodun1112-207c4a9748/authoring/InventoryRiskDemandOptimizationDashboard/Dashboard1#3">Tableau Link</a>
 ---
 
 ## 📈 Key Insights
