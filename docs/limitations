@@ -1,0 +1,4 @@
+## Limitations and Assumptions
+- Estimated Lost Sales is an analytical estimate, not actual booked revenue loss
+- Inventory status thresholds are rule-based and may vary by business context
+- Lead-time variability and supplier constraints were not modeled
