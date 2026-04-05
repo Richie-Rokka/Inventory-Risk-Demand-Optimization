@@ -66,13 +66,38 @@ This project aims to identify these issues and recommend actionable improvements
 
 ## 📊 Dashboard
 Inventory Dashboard<img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/fe36ccc0-3f63-4e29-84f8-cee34f9ba190" />
-)
+
 
 
 ---
 
 ## 🚀 Project Outcome
 This project demonstrates how data analytics can be used to identify operational inefficiencies, reduce risk, and support better inventory and supply chain decision-making.
+
+---
+
+
+# Data Dictionary
+
+| Field Name | Description |
+|-----------|-------------|
+| product_id | Unique product identifier |
+| warehouse | Warehouse location |
+| stock_level | Current inventory on hand |
+| daily_demand | Average daily units required |
+| reorder_point | Minimum threshold before replenishment |
+
+
+# Metric Definitions
+
+## Stockout Rate
+Percentage of products where stock level falls below reorder point.
+
+## Overstock Rate
+Percentage of products where stock level exceeds expected demand threshold.
+
+## Estimated Lost Sales
+Estimated revenue loss caused by stock shortages.
 
 ---
 
