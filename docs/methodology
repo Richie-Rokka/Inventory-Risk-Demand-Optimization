@@ -1,0 +1,5 @@
+## Methodology
+- Joined inventory and sales data in Tableau using an inner join
+- Created calculated fields for Stockout Rate, Overstock Rate, and Estimated Lost Sales
+- Built an Inventory Status classification to segment products into Stockout Risk, Overstock, and Balanced
+- Designed an interactive dashboard with warehouse and category filters
