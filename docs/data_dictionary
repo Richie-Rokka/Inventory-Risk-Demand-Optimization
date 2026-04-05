@@ -1,0 +1,9 @@
+## Data Dictionary
+
+| Field Name     | Description                         |
+|----------------|-------------------------------------|
+| product_id     | Unique product identifier           |
+| warehouse      | Warehouse location                  |
+| stock_level    | Current inventory on hand           |
+| daily_demand   | Average daily units required        |
+| reorder_point  | Minimum threshold before reorder    |
