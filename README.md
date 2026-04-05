@@ -65,7 +65,7 @@ This project aims to identify these issues and recommend actionable improvements
 ---
 
 ## 📊 Dashboard
-![Inventory Dashboard](./<img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/fe36ccc0-3f63-4e29-84f8-cee34f9ba190" />
+Inventory Dashboard<img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/fe36ccc0-3f63-4e29-84f8-cee34f9ba190" />
 )
 
 
