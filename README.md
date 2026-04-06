@@ -24,9 +24,7 @@ This project analyzes inventory and demand data to identify supply chain ineffic
 
 ## 📊 Dashboard
 <img width="1500" height="1200" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/b116f516-60d2-42ff-93dd-6a287b020480" />
-
-
-*Dashboard Features:*
+**Dashboard Features:**
 - KPI summary of inventory performance  
 - Distribution of inventory risk categories  
 - Lost sales analysis by product and warehouse  
