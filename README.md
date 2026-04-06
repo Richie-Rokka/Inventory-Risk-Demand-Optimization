@@ -46,6 +46,15 @@ This project aims to identify these issues and provide actionable recommendation
 
 ---
 
+## 💼 Why This Matters
+
+Effective inventory management directly impacts revenue and cost. This project demonstrates how data analytics can be used to:
+- Reduce lost sales from stockouts  
+- Minimize excess inventory and holding costs  
+- Improve supply chain efficiency
+
+---
+
 ## 🛠 Tools & Technologies
 - Tableau – Data visualization and dashboard development  
 - Excel – Data preparation and structuring  
